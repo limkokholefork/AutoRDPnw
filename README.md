@@ -4,7 +4,7 @@
 
 Due to recent issues with GitHub's terms and conditions, **AutoRDPwn** will no longer be available here. 
 
-I will upload the code to another platform soon, and will be back with more information and some news.
+Temporarily, the project will be available on the following address: https://gitlab.com/JoelGMSec/AutoRDPwn
 
 Thank you for using this tool and the support of the entire hacking community.
 
