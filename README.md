@@ -1,4 +1,4 @@
-<p align="center"><img width=450 alt="AutoRDPwn" src="https://raw.githubusercontent.com/JoelGMSec/AutoRDPnw/master/AutoRDPwn.png"></p>
+<p align="center"><img width=450 alt="AutoRDPwn" src="https://raw.githubusercontent.com/JoelGMSec/AutoRDPnw/main/AutoRDPwn.png"></p>
 
 # AutoRDPwn
 
